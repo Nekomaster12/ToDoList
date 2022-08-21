@@ -36,8 +36,3 @@ const ToDoList = {
     }
 }
 
-ToDoList.createNewTask("Посмотреть аниму")
-ToDoList.createNewTask("Пойти спать")
-ToDoList.createNewTask("Покушать", "Done")
-ToDoList.createNewTask("Доделать страду", "InProgress")
-ToDoList.showList("")
